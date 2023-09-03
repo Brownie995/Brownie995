@@ -2,7 +2,7 @@
 - 👀 I’m interested in Networking with like minds
 - 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me helenadaeze@gmail.com
+- 📫 How to reach me adaeze.egba@skillup.com.ng
 
 <!---
 Brownie995/Brownie995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
